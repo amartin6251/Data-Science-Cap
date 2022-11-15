@@ -5,7 +5,8 @@ README
 This repository is for the IBM Applied Data Science Capstone Project. 
 
 Technologies used:
-/n Python3
+
+Python3
 Pandas, 
 Numpy, 
 BeautifulSoup, 
